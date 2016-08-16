@@ -1,0 +1,25 @@
+--ignore=
+  adjoining-classes,
+  box-model,
+  compatible-vendor-prefixes,
+  duplicate-background-images,
+  important,
+  outline-none,
+  overqualified-elements,
+  text-indent
+  order-alphabetical
+  box-sizing
+  box-model
+  outline-none
+  display-property-grouping
+  bulletproof-font-face
+  qualified-headings
+  selector-max-approaching
+  gradients
+  floats
+  font-sizes
+  regex-selectors
+  star-property-hack
+  unique-headings
+  universal-selector
+  order-alphabetical

@@ -1,0 +1,32 @@
+{
+  "name": "web_code_analyser",
+  "version": "1.0.0",
+  "description": "Analyses Static CSS, HTML & JavaScript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joepegler/WebCodeAnalyser.git"
+  },
+  "keywords": [
+    "Analyses",
+    "Static",
+    "CSS",
+    "HTML",
+    "&",
+    "JavaScript",
+    "code"
+  ],
+  "author": "Joe Pegler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joepegler/WebCodeAnalyser/issues"
+  },
+  "homepage": "https://github.com/joepegler/WebCodeAnalyser#readme",
+  "devDependencies": {
+    "csslint": "^1.0.2",
+    "jshint": "^2.9.2"
+  }
+}
