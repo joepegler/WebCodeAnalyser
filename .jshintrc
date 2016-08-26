@@ -1,4 +1,5 @@
 {
+  "maxerr" : 10000,
   "curly" : true,
   "camelcase" : true,
   "freeze" : true,
@@ -13,6 +14,7 @@
   "eqnull" : true,
   "browser" : true,
   "jquery": true,
+  "maxerr": 999,
   "globals" : {
     "console" : true,
     "require" : true,
